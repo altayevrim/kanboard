@@ -26,7 +26,7 @@ Ve burada, bir *italik* bir kelime ; bir altcizgi_ ile.
 Sırasız Listeler
 ---------------
 
-Sırasız listeda yıldız , eksi veya artılar kullanabilir.
+Sırasız listede yıldız , eksi veya artılar kullanabilir.
 
 ### Source
 
@@ -51,19 +51,19 @@ veya
 Sıralı listeler
 -------------
 
-Sıralı listeler şöyle bir sayı göre öneki:
+Sıralı listeler oluşturmak için basitçe numaralar verin:
 
 ### Source
 
 ```
-1. Önde bunu yap
+1. Önce bunu yap
 2. Bunu yap
 3. Ve şu
 ```
 
 ### Result
 
-1. Önde bunu yap
+1. Önce bunu yap
 2. Bunu yap
 3. Ve şu
 
