@@ -1,8 +1,8 @@
 Çift-Kademeli Kimlik Doğrulama
 =========================
 
-Her kullanıcı [Çift-Kademeli Kimlik Doğrulama two-factor authentication](http://en.wikipedia.org/wiki/Two_factor_authentication) yı aktyif edebilir.
-Başarılı bir oturum açtıktan sonra, kullanıcıya Kanboard'a erişim izni vermeleri için bir kerelik kod (6 karakter) istenecektir.
+Her kullanıcı [Çift-Kademeli Kimlik Doğrulama two-factor authentication](http://en.wikipedia.org/wiki/Two_factor_authentication) yı aktive edebilir.
+Başarılı bir oturum açma işleminden sonra, kullanıcıdan Kanboard'a erişim izni alabilmesi için tek kullanımlık bir kod (6 karakter) girmesi talep edilecektir.
 
 Bu kod, genellikle akıllı telefonunuza takılı olan uyumlu bir yazılım tarafından sağlanmalıdır.
 
@@ -20,7 +20,7 @@ Bu sistem çevrimdışı çalışabilir ve mutlaka cep telefonunuz olması gerek
 Kurmak
 -----
 
-1. Kullanıcı profilinize git
+1. Kullanıcı profilinize gidin
 2. Sol tarafta **İki faktörlü kimlik doğrulama** seçeneğini tıklayın ve kutuyu işaretleyin
 3. Sizin için gizli bir anahtar oluşturulur.
 
